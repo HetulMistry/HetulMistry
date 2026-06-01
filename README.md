@@ -1,4 +1,8 @@
-# Hey, I'm Hetul Mistry 👋
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+# Hey, I'm Hetul Mistry <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="35px" height="35px">
 
 🚀 Full-stack developer exploring AI, scalable systems, and data-driven applications
 
@@ -95,12 +99,19 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
 
----
+# Contribution Graph
 
-## 📊 GitHub Stats
+<br clear="both">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=HetulMistry&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
+<picture>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hetulmistry/hetulmistry/pacman-output/bomberman-contribution-graph.svg">
+</picture>
 
-## 🏆 GitHub Trophies
+# Some Stats
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=HetulMistry&theme=nightowl&no-frame=false&no-bg=true&margin-w=4)
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hetulmistry/hetulmistry/pacman-output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hetulmistry/hetulmistry/pacman-output/bomberman-contribution-graph.svg">
+</picture>
