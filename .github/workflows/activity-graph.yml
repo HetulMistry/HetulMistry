@@ -1,6 +1,8 @@
 name: Update Activity Graph
 
 on:
+  workflow_dispatch:
+
   schedule: # execute every 12 hours
     - cron: "* */12 * * *"
 
