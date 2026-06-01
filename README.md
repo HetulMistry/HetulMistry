@@ -104,6 +104,8 @@
 <br clear="both">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hetulmistry/hetulmistry/pacman-output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hetulmistry/hetulmistry/pacman-output/bomberman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hetulmistry/hetulmistry/pacman-output/bomberman-contribution-graph.svg">
 </picture>
 
@@ -111,7 +113,7 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hetulmistry/hetulmistry/pacman-output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hetulmistry/hetulmistry/pacman-output/bomberman-contribution-graph.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/hetulmistry/hetulmistry/languages-output/languages.svg" height="100" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/hetulmistry/hetulmistry/activity-graph-output/activity-graph.svg" height="200" alt="activity-graph graph"  />
+</div>
